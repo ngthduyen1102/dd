@@ -1,0 +1,3 @@
+gradle.projectsLoaded {
+    gradle.startParameter.taskNames += ['run']
+}
